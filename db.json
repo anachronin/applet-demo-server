@@ -2,11 +2,13 @@
   "messages":[
     {
       "_id":3282,
+      "created":1525057528325,
       "from":"john tan",
       "content":"Hello, time to work!"
     },
     {
       "_id":3292,
+      "created":1525057548325,
       "from":"mary lee",
       "content":"You owe me money. Please pay up."
     }
